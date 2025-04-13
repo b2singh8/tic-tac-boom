@@ -1,11 +1,11 @@
 {
 	"title": "Tic Tac Boom",
 	"package": "com.tic.tac.boom4d42",
-	"current_version_name": "0.0.56",
-	"current_version_code": 7,
-	"updates_msg": "This version added google play sign-in, in-app review, and in-app Update Notificaion and leaderboards",
+	"current_version_name": "0.0.58",
+	"current_version_code": 10,
+	"updates_msg": "This version added Google Play sign-in, in-app review, and in-app Update Notification and leaderboards",
 	"link_to_download": "https://play.google.com/store/apps/details?id=com.tic.tac.boom4d42",
-	"previous_version_name": "0.0.55",
-	"previous_version_code":5,
+	"previous_version_name": "0.0.57",
+	"previous_version_code":9,
 	"author": "aaloobhaloo"
 }
