@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tic.tac.boom4d42",
+      "sha256_cert_fingerprints": [
+        "01:20:DB:4E:53:7D:DE:10:B4:D8:F1:59:8C:6C:9A:9C:52:7E:94:2C:5D:D5:9C:79:BB:4E:EC:BB:86:F9:E5:D0"
+      ]
+    }
+  }
+]
